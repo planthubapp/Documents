@@ -1,0 +1,26 @@
+{
+    "Plant_name": "name of plant",
+    "Plant_price": "Plant_price",
+    "Plant_facts": [
+        "fact1",
+        "fact2",
+        "fact3",
+        "fact4",
+        "Don't stop at 4 facts if you get more intersting fact add it"
+    ],
+    "Genus": "string type",
+    "Use": "string type",
+    "Water_Requirement": "string type",
+    "Fragrance": "if no fragrance enter 'Non Fragrant'",
+    "With_Pots": "string",
+    "Sunlight_Requirement": "string type",
+    "Size": "Small/Medium/Large/any",
+    "Plant_category": "",
+    "PLant_description": "plant description in detail",
+    "Water_Requirements": "Alternate day",
+    "Plant_image": {
+        "LxH": "image_URL",
+        "Lx2H": "image_URL",
+        "2LxH": "image_URL"
+    }
+}

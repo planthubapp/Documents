@@ -1,0 +1,954 @@
+[{
+        "Plant_name": "Variegated Ganges Primrose",
+        "Plant_price": 275,
+        "Plant_facts": [
+            "This variegated beauty is a tender perennial or subshrub that sprawls out and is reminiscent of a large petunia plant.",
+            "Bright variegated foliage and purple flowers that bloom off and on nearly all year long.",
+            "Easy to grow sun to part sun.",
+            " Can be mowed or trimmed hard in any season and will re-sprout quickly from the roots."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Asystasia gangetica 'variegata' is a perennial subshrub with ovate, mid-green, variegated leaves. The dark green leaves are plump ovals to heart-shaped and held in opposite pairs on the creeping or clambering stems. They are highlighted with yellow blotches and splattering. Anytime when temperatures are warm and soil moisture ample, funnel-shaped flowers appear, opening white or yellow and becoming flushed with purple tones as they age. The blossom has five flaring lobes and will attract long-tongued moths.",
+        "Water_Requirement": "Daily",
+        "Sunlight_Requirement": "Outdoor sun",
+        "Genus": "Asystasia",
+        "Fragrance": "Non Fragrant",
+        "Size": "Large",
+        "Use": "Balcony",
+        "With_Pots": "Yes",
+        "Plant_image": {
+            "LxH": "https://ph-test-11.slatic.net/p/ffc280d14eaa83bd28c69663248527c6.jpg",
+            "Lx2H": "https://images.almostedenplants.com/images/full//St%20Johns%20Variegated%20Ganges%20Primrose%20Foliage.jpg",
+            "2LxH": "https://http2.mlstatic.com/D_NQ_NP_882565-MLB48755489320_012022-W.jpg"
+        }
+    },
+    {
+        "Plant_name": "Narcissus 'Rapture' - Daffodil (Bulbs)",
+        "Plant_price": 450,
+        "Plant_facts": [
+            "They are the birth flower for March.",
+            "They are named after a Greek myth.",
+            "Always present daffodils in a bunch.",
+            "Symbolises new beginnings and friendships.",
+            "A daffodil field can bloom for decades."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "The daffodil is a perennial and grows to about 41 cm (16 inches) in height. Each plant features five or six linear leaves that grow from the bulb and are about 30 cm (12 inches) long. The stem bears one large yellow blossom with a corolla deeply cleft into six lobes and a central bell-shaped crown, or corona, that is frilled at its edges. This trumpet shape contains the stamens and is the flower's most conspicuous feature.",
+        "Water_Requirement": "Daily",
+        "Genus": "Narcissus",
+        "Fragrance": "Fragrant",
+        "Size": "Small",
+        "Sunlight_Requirement": "Outdoor sun",
+        "Use": "Balcony",
+        "With_Pots": "No",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Daffodil_400x.jpg?v=1600423418",
+            "Lx1.5H": "https://i.pinimg.com/564x/ed/5f/08/ed5f08058721e4f927e50d2e8cb9864d--top-show-spring-tops.jpg",
+            "2LxH": "https://www.colorblends.com/wp-content/uploads/2020/01/3532_Rapture_CGC3973_CMYKP-1024x680.jpg"
+        }
+    },
+    {
+        "Plant_name": "Grape Hyacinth (Mix bulbs)",
+        "Plant_price": 340,
+        "Plant_facts": [
+            "The name muscari means musk in Greek, which is fitting for these scented flowers.",
+            "They can be used in dried floral arrangements.",
+            "Grape hyacinths are known to attract bees to the garden.",
+            "Some species can be used in traditional herbal medicine for its diuretic and stimulant properties."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Grape hyacinths are small spring-blooming bulbs, so named because of the tight little flower clusters that resemble grapes. These plants are smaller and only get about 6 to 8 inches (16 to 20 cm.) high.Grape hyacinth produces 1-3 flower stalks per bulb with 20-40 tightly packed florets. Each  deep blue bell-shaped floret has a white band on the rim . The flowers open from the bottom up the inflorescence Each grape hyacinth flower looks like it has little beads all strung together up and down the stem of the plant. Most have a mildly sweet fragrance variously described as slightly grassy or grapey.",
+        "Water_Requirement": "Daily",
+        "Genus": "Muscari",
+        "Size": "Small",
+        "Fragrance": "Fragrant",
+        "With_Pots": "No",
+        "Use": "Garden",
+        "Sunlight_Requirement": "Outdoor sun",
+        "Plant_image": {
+            "LxH": "https://i.pinimg.com/originals/36/45/b8/3645b87550529e507e9d598f4e338510.jpg",
+            "Lx2H": "http://cdn.shopify.com/s/files/1/0557/2873/4375/products/Muscari-Armeniacum-Grape-Hyacinths-Blue-2.jpg?v=1617974628",
+            "2LxH": "https://www.allaboutgardening.com/wp-content/uploads/2022/01/Grow-Grape-Hyacinth-1200x667.jpg"
+        }
+    },
+    {
+        "Plant_name": "Tulips (Mix bulbs)",
+        "Plant_price": 480,
+        "Plant_facts": [
+            "Tulips are native to Central Asia",
+            "The tulip industry got its start in Holland.",
+            "Tulip Mania is one of the most famous market crashes of all time.",
+            "Striped tulips were originally created from a virus",
+            "Tulips inspired many forms of art"
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Tulips (Tulipa) form a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly coloured, generally red, pink, yellow, or white (usually in warm colours). They often have a different coloured blotch at the base of the tepals (petals and sepals, collectively).",
+        "Water_Requirement": "Daily",
+        "Genus": "Tulipa",
+        "Fragrance": "Non Fragrant",
+        "With_Pots": "No",
+        "Size": "Large",
+        "Sunlight_Requirement": "Outdoor sun",
+        "Use": "Balcony",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Tulips-3_6d142f4f-d458-495b-b980-e08796ed2366_600x.jpg?v=1608117472",
+            "Lx2H": "https://m.media-amazon.com/images/I/61l5SMJoNyL._AC_.jpg",
+            "2LxH": "https://daylilynursery.com/wp-content/uploads/2018/11/il_570xN.1712297239_m27o.jpg"
+        }
+    },
+    {
+        "Plant_name": "Mexican False Heather (Purple)",
+        "Plant_price": 325,
+        "Plant_facts": [
+            "Beneficial for high cholesterol, triglycerides, dermatitis, fever, cough, stomach disorders, malaria, indigestion, dysentery, wounds, bruises, and muscle pain.",
+            "3-lobed oblong-ovoid, dehiscent, leathery or berrylike capsules about 3.5 mm long containing 5-8 small seeds.",
+            "In the under storey of deciduous and semi-deciduous lowland, mid-elevation forests, in oak forests,  edges of creeks and rivers, in humid forests, in disturbed areas and moist forests."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "C. hyssopifolia is a compact, bushy spreading evergreen shrub to 45cm in height, with small oblong shaped dark green leaves resemble those of Scotch heather (genus Calluna also known by its synonym Erica) and are about 3/4 to 1 in long and 1/4 to 1/2 in wide. They are arranged alternately the length of the stems giving the plant a fern like appearance. In tropical climates small clusters of tiny light purple flowers 1cm across merge from the axils (the points where the leaf attaches to a stem) to create a show of color that lasts for much of the year.",
+        "Water_Requirement": "Daily",
+        "Sunlight_Requirement": "Outdoor sun",
+        "Genus": "Cuphea",
+        "Fragrance": "Non Fragrant",
+        "Size": "Large",
+        "Use": "Balcony",
+        "With_Pots": "Yes",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Cuphea_hyssopifolia-Purple1_600x.jpg?v=1571438579",
+            "Lx2H": "http://cdn.shopify.com/s/files/1/0284/2450/products/Cuphea_hyssopifolia-Purple1_1024x.jpg?v=1571438579",
+            "2LxH": "https://cdn.pixabay.com/photo/2016/05/16/21/10/false-heather-1396763_1280.jpg"
+        }
+    },
+    {
+        "Plant_name": "Cucumber Indam Swadisht",
+        "Plant_price": 273,
+        "Plant_facts": [
+            "Cucumbers originate from south East Asia.",
+            "Cucumbers can be grown in soilless medium, such as in water (hydroponic).",
+            "Cucumber plants climb by tendrils, which are thin spiralling shoots.",
+            "The large leaves on a cucumber plant provide shading for the developing fruits."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "The cucumber plant is a sprawling vine with large leaves and curling tendrils. The plant may have 4 or 5 main stems from which the tendrils branch. The leaves of the plant are arranged alternately on the vines, have 3-7 pointed lobes and are hairy. The cucumber plant produces yellow flowers that are 4 cm (1.6 in) in diameter.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Salad",
+        "Size": "Large",
+        "Genus": "Bieninal",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/SWADIST43_600x.jpg?v=1595392015",
+            "Lx2H": "https://www.bigbasket.com/media/uploads/p/xxl/40174714-2_4-wonderland-allthatgrows-cucumber-seeds-pack-of-20-seeds.jpg",
+            "2LxH": "https://www.kailashseeds.com/wp-content/uploads/2017/10/Indam-Swadisht-hy.png"
+        }
+    },
+    {
+        "Plant_name": "Decorative Dahlia (Mix bulbs)",
+        "Plant_price": 365,
+        "Plant_facts": [
+            "Dahlias were originally classified as a vegetable.",
+            "People use dahlias at weddings for their symbolism.",
+            "Dahlias originated in Central America."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Dahlias are perennial plants with tuberous roots, though they are grown as annuals in some regions with cold winters.Dahlia flowers can range in size from petite 2 - inch lollipop - style pompoms to giant 15 - inch“ dinner plate” blooms.Most varieties grow 4 to 5 feet tall.The blooms of this class are fully double, and the central disc is not visible until the blooms are aged.The petals are flat and broad with a blunt point.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Dahlia",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/dahlia_e9999842-6377-4830-acad-3b187d453c39_600x.jpg?v=1626330257",
+            "Lx2H": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2015%2F06%2F16014718%2Fvivid-red-pink-dahlia-varieties-e63c3432.jpg",
+            "2LxH": "https://www.americanmeadows.com/media/catalog/category/dahlia-red-pink-banner.jpg"
+        }
+    },
+    {
+        "Plant_name": "Lavender",
+        "Plant_price": 650,
+        "Plant_facts": [
+            "Lavender is actually quite the effective bug repellent! It can protect other plants from certain pests and creepy crawlers as well.",
+            "When it comes to plant symbolism, lavender represents purity, devotion, serenity, grace, and calmness.",
+            "Lavender is actually a part of the mint family!",
+            "The color lavender actually originates from Lavandula angustifolia (or more commonly known as English lavender)."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Lavender is a commonly grown herb plant popular for its fragrant aroma, The herb has been used since ancient times in perfumery.. It is a great air purifier and its known as an insect repellent. The aroma can help relax the lungs and reduce the anxiety, inadvertently helping you relax and sleep better. The tiny, tubular, mauve-blue blossoms grow in whorls of six to ten flowers along square, angular stems and form a terminal spike. These flower spikes stretch upward beyond the 12-18 inch (3.6-5.4 m) height of the shrub, blooming in summers. The blossoms are well liked by bees and a good source of honey. The needle-like, evergreen, downy leaves are a light, silver-gray. They are lanceolate, opposite, and sessile, and grow from a branched stem. The bark is gray and flaky.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Medium",
+        "Genus": "Lavandula",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/lavendar_600x.jpg?v=1591538208",
+            "Lx2H": "https://www.nature-and-garden.com/wp-content/uploads/sites/4/2019/09/lavender-names.jpg",
+            "2LxH": "http://co19.nevseoboi.com.ua/flower/278/27895/1558164977-201901219-flowers-nevseoboi.com.ua.jpg"
+        }
+    },
+    {
+        "Plant_name": "Roses of Sharon",
+        "Plant_price": 375,
+        "Plant_facts": [
+            "The Rose of Sharon is mentioned in the Bible's Song of Solomon (2:1-2).",
+            "It's A Versatile Plant."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "An erect, deciduous shrub, Rose of Sharon produces colorful, cup-shaped flowers in summer and fall. The plant grow 8 to 12 feet tall and 4 to 6 feet wide. The plant shows good pollution tolerance, making it appropriate for urban gardens.Blooms on these shrubs is lavender and they often have a dark eye in the center.. The large single flowers are often wavy-looking, giving the impression that they re made of crepe paper. Most bear small, deeply-lobed, light-green leaves",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Hibiscus",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Roses_of_Sharon_Hibiscus_sinosyriacus_1_600x.JPG?v=1591538908",
+            "Lx2H": "https://flowers4u.files.wordpress.com/2015/08/rose-of-sharon-shrub.jpg",
+            "2LxH": "https://www.pennington.com/-/media/images/pennington2-na/us/blog/fertilizer/how-to-grow-and-care-for-rose-of-sharon/how-to-grow-rose-of-sharon-h.jpg"
+        }
+    },
+    {
+        "Plant_name": "Sedum reflexum",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "Sedum can store water in its leaves and is able to endure varying weather conditions (from -25°C and up to 40°C).",
+            "The pores in the leaves only open at night, to minimize the loss of moisture during the hot, dry day.",
+            "There is also little or no incidence of disease or insect infestation in Sedum."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Sedum reflexum shines with brillant golden-yellow foliage. It is low growing, mat forming with needle-like evergreen leaves that look like a yellow, miniature spruce. The drooping buds face upward when they open. It grows to 4 inches tall and 2 feet across. Yellow flowers appear in late summer.",
+        "Water_Requirement": "Twice a week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun, Indoor Filtered Light",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Small",
+        "Genus": "Sedum",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/sedum_reflexa_1_600x.jpg?v=1591538185",
+            "Lx2H": "https://m.media-amazon.com/images/I/81cS2DyERGL._SL1500_.jpg",
+            "2LxH": "https://plantcaretoday.com/wp-content/uploads/sedum-reflexum-1200-630-FB-03312019-min.jpg"
+        }
+    },
+    {
+        "Plant_name": "Gloriosa Superba (Bulbs)",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "Though Ayurveda and Yunani medicine traditions say that glory lilies have medicinal value, all parts of these plants are toxic.",
+            "They are considered perennial herbs and climbing vines, with tendrils on the ends of the leaves that allow them to attach themselves to support structures as they climb."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Gloriosa rothschildiana is a tropical vine which grows to 6 . This fragile grower with exotic colored flowers, narrow, waxy-edged petals is a climber needing a trellis or some type of wire or support for the tendrils to cling to. The color of flower is ranging from red with yellow margins to very pale yellow forms with a mauve or purple stripe, pale white forms also occur. Plant begins blooming with 3 to 4 inch flowers having not real fragrance approximately 2 to 3 months after planting a mature bulb.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Treatment of open wounds",
+        "Size": "Small",
+        "Genus": "Gloriosa",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Gloriosa_superba_600x.jpg?v=1571438608",
+            "Lx2H": "https://m.media-amazon.com/images/I/71IK6M5iyuL._SX522_.jpg",
+            "2LxH": "https://i.ytimg.com/vi/fLu-tIOcJuw/maxresdefault.jpg"
+        }
+    },
+    {
+        "Plant_name": "Kale (microgreens)",
+        "Plant_price": 150,
+        "Plant_facts": [
+            "Kale microgreens are among the best sources of minerals and vitamins C & K.",
+            "It boasts 80 milligrams of vitamin C to boost immunity – preventing common colds and viruses."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Microgreens are young vegetable greens that have an intense aromatic flavor and concentrated nutrient content and come in a variety of colors and textures. They can be incorporated into a variety of dishes, including sandwiches, wraps and salads.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun, Indoor Filtered Light",
+        "With_Pots": "No",
+        "Use": "Balcony",
+        "Size": "Small",
+        "Genus": "Microgreens",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/kale_38726d47-5d48-44e3-ac52-f671f280130f_600x.jpg?v=1623495358",
+            "Lx2H": "https://indooracres.farm/wp-content/uploads/2020/07/IMG_3453-compressed-570x759.jpeg",
+            "2LxH": "https://www.microgreenscorner.com/wp-content/uploads/2020/09/kale.jpg"
+        }
+    },
+    {
+        "Plant_name": "Iris Tectorum",
+        "Plant_price": 275,
+        "Plant_facts": [
+            "Iris Tectorum has been called roof iris.",
+            "Iris Tectorum is a very beautiful flower and is found in a variety of colour."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Iris Tectorum has been called roof iris, because it was traditionally planted in thatched roofs in China and Japan. Japanese roof iris has wonderfully textured, light-green foliage emerging directly from the ground in dense clumps . It is closely related to the native crested iris. It grows 12 to 18 inches tall, producing deep lilac-blue purple with white crest in the spring. Foliage is arranged in fans of narrow, lance-shaped, ribbed, glossy, upright leaves that can become somewhat floppy. Flowers are displayed in a showy fashion within the clump of foliage.. The flower stems are perennials, and therefore do not need to be cut back once they flower.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outside",
+        "Size": "Large",
+        "Genus": "Iris",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/PHOTO-2018-08-07-07-44-02_600x.jpg?v=1571438615",
+            "Lx2H": "https://thumbs.dreamstime.com/b/iris-tectorum-pair-striking-purple-flowers-out-focus-background-iris-tectorum-pair-striking-purple-flowers-out-153749019.jpg",
+            "2LxH": "https://i.pinimg.com/originals/3f/8e/ab/3f8eabf015fa22d1a7d9c6e2dfe43c4c.jpg"
+        }
+    },
+    {
+        "Plant_name": "Forsythias",
+        "Plant_price": 600,
+        "Plant_facts": [
+            "Forsythia is named in honor of William Forsyth, one of the founders of the Royal Horticultural Society.",
+            "Native to China.",
+            "In traditional Chinese medicine forsythia is used to detoxify the body and treat colds and fever."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Forsythia are deciduous shrubs typically growing to a height of 1-3 m (3 ft 3 in-9 ft 10 in) and, rarely, up to 6 m (20 ft) with rough grey-brown bark. The leaves are borne oppositely and are usually simple. The flowers are produced in the early spring before the leaves, bright yellow with a deeply four-lobed flower, the petals joined only at the base. These become pendent in rainy weather thus shielding the reproductive parts.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outside",
+        "Size": "Large",
+        "Genus": "Forsythia",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/FORSYTHIA-1_600x.jpg?v=1648891156",
+            "Lx2H": "https://i.pinimg.com/originals/8c/3e/21/8c3e215eef6277c1ce8069ee2df0b559.jpg",
+            "2LxH": "https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0MzU1MTUxOTM3NzQyMTg0/how-to-grow-forsythia-for-spring-color.jpg"
+        }
+    },
+    {
+        "Plant_name": "Hoya Viola",
+        "Plant_price": 550,
+        "Plant_facts": [
+            "They bear the reputation of having extremely strong-smelling blooms because Hoya carnosa's blooms are very fragrant and potent.",
+            "The smell and strength of their blooms is as varied as their foliage."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Hoya Viola is a is a woody, epiphyte or scrambling shrub with large flashy patterned leaves & bright yellow flowers trimmed with brown edges. It is a cross beyween Hoya deykeae and Hoya vitellina. Sometimes the flowers colour varies probably due to access of light. It has a heady ginger fragrance.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Fragrant",
+        "Sunlight_Requirement": "Outdoor sun, Indoor filtered light",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Medium",
+        "Genus": "Hoya",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/hoyaviola-1_600x.jpg?v=1614788330",
+            "Lx2H": "https://www.amthaiorchids.com/wp-content/uploads/2021/10/Hoya-Viola-500x667.jpeg",
+            "2LxH": "https://cdn.shopify.com/s/files/1/0272/5832/3033/products/2021-10-01_00.34.50_2048x2048.jpg?v=1633097843"
+        }
+    },
+    {
+        "Plant_name": "Kalanchoe beharensis",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "These plants develop brilliantly colored flowers, that are produced in terminal clusters.",
+            "These plants bloom during late fall and last till late winter."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Kalanchoe 'Fang' is a upright bushy & slow-growing succulent upto 2 to 3 feet tall & has 3 to 4 inch long velvety to triangular lace shaped long stocked leaves . The leaves are a golden-brown color on the upper surface with silver-gray underside, the large flashy leaves are covered with fine silver hairs and display many gnarly fang-like tubercles on the underside.Mature 'Felt Bush' plants occasionally produces long stalked clusters of small urn shaped red orange or greenish-yellow flowers. while flowers with red striations are interesting, it is the foliage that makes this plant attractive.",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Small",
+        "Genus": "Kalanchoe",
+        "Plant_image": {
+            "LxH": "https://www.gardentags.com/plant-encyclopedia/images/30363/kalanchoe-beharensis-roseleaf.jpeg",
+            "Lx2H": "https://i.pinimg.com/736x/1d/3e/64/1d3e6409623d520e80f8c5d24cff458b.jpg",
+            "2LxH": "https://plantcaretoday.com/wp-content/uploads/kalanchoe-beharensis-01-1200-736-12272018-min.jpg"
+        }
+    },
+    {
+        "Plant_name": "Caladium 'Pink Cloud' (Bulbs)",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "This is a shade-loving plant, which makes it an ideal choice for shaded gardens or yards, patios and inside the house.",
+            "The leaves are fragile but will thrive when protected from the wind and sun."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "A caladium plant is comprised of a planted bulb, stalks and the most important, the heart shaped leaves. The leaves themselves are the colorful part of the plant. No need to wait for flowers or fruit, a caladium begins to show off its brilliant display as the leaves unfurl. 'Pink Cloud' is a low-growing caladium with very strong colour, a deep pink dissected by white veins and trimmed with a green border.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Balcony",
+        "Size": "Small",
+        "Genus": "Caladium",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Pink_Cloud_Caladium-1_600x.jpg?v=1571438645",
+            "Lx2H": "https://i.pinimg.com/originals/3e/13/0c/3e130c238502c8be7c75884ffee0544c.jpg",
+            "2LxH": "https://m.media-amazon.com/images/I/71FJ5Flk4gL._SL1020_.jpg"
+        }
+    },
+    {
+        "Plant_name": "Magnolia Genie",
+        "Plant_price": 725,
+        "Plant_facts": [
+            "Magnolia has brown or grey bark that is smooth when the plant is young.",
+            "They produces 1 ½ to 3 inches wide flower that consists of up to 18 leathery tepals (fused petals and sepals).",
+            "Leaves are evergreen and they are alternately arranged on the branches.",
+            "Leaves have leathery texture and entire margin."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Magnolia Genie is the result of 15 years of breeding resulting in a compact, small tree maturing at perhaps 10-13 feet tall. Sensational black-red buds open to small globular tulip-shaped blooms of deep rich maroon-purple on both surfaces, with nicely reflexed tepal tips paling to a lighter magenta, rose shade.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Outdoor",
+        "Size": "Large",
+        "Genus": "Magnolia",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Magnolia_Genie_600x.jpg?v=1597999576",
+            "Lx2H": "https://i.pinimg.com/originals/f4/39/33/f439335eda27287119e371e08c5fdbf5.png",
+            "2LxH": "https://i.ytimg.com/vi/6mziruw6PXc/maxresdefault.jpg"
+        }
+    },
+    {
+        "Plant_name": "Bleeding Heart Vine",
+        "Plant_price": 375,
+        "Plant_facts": [
+            "Bleeding heart develops from the underground rhizome where it stores nutrients and energy required for development.",
+            "Bleeding heart blooms during the spring and summer.",
+            "Fruit of bleeding heart is green seed pod filled with black seed.",
+            "Ants play important role in dispersal of seed of bleeding heart."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Clerodendrum bleeding heart is a well-behaved, non-aggressive plant that can reach around three feet in containers, but can climb to 15 feet at maturity. It is a sub-tropical vine that wraps its tendrils around a trellis or other support. The vines also respond well to hanging baskets, where they drape attractively over the sides.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Large",
+        "Genus": "Verbenaceae",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Bleeding_Heart_Vine_2_600x.JPG?v=1571438582",
+            "Lx2H": "https://i.pinimg.com/originals/dd/ac/70/ddac70f7f4d36f4ebd26cb13ac5a8155.jpg",
+            "2LxH": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bleeding_Heart_Vine_%28Clerodendrum_thomsoniae%29_6.jpg"
+        }
+    },
+    {
+        "Plant_name": "Gloriosa Superba (Bulbs)",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "Gloriosa superba is a striking climber with unusual and beautiful, red and yellow, flame-like flowers in summer; it is suitable for shade or sun, and is easy to grow.",
+            "The leaves are shiny, bright green and are tipped in a tendril, which will cling to anything it touches."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Gloriosa rothschildiana is a tropical vine which grows to 6 . This fragile grower with exotic colored flowers, narrow, waxy-edged petals is a climber needing a trellis or some type of wire or support for the tendrils to cling to. The color of flower is ranging from red with yellow margins to very pale yellow forms with a mauve or purple stripe, pale white forms also occur.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Outdoor",
+        "Size": "Small",
+        "Genus": "Gloriosa",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Gloriosa_superba_600x.jpg?v=1571438608",
+            "Lx2H": "https://i.pinimg.com/474x/87/26/55/872655c6a935bf21beea00eeaec059db--florida-gardening-garden-bulbs.jpg",
+            "2LxH": "https://davesgarden.com/guides/pf/thumbnail.php?image=2007/08/04/GardenGuyKin/c1c9b4.jpg&widht=700&height=312"
+        }
+    },
+    {
+        "Plant_name": "The Dark Lady - Shrub rose",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "The Dark Lady is a Modern shrub rose which produces clusters of fragrant, very full, large, dark red flowers with dark green, semi-glossy leaves.",
+            "This favorite plant is quite susceptible to a variety of diseases and pests, many of which can be controlled with good cultural practices."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Shrub roses are some of the easiest to grow and have the same beautiful attributes of classic roses—but without all the fuss.Rosa 'The Dark Lady' bears large, crinkled blooms that blend shades of red and violet and unfurl on a plant that spreads slightly and grows to 4 feet tall and wide.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Rosa",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Rosederescht-Portland_600x.jpg?v=1625228168",
+            "Lx2H": "https://live.staticflickr.com/4046/4645761982_0096c351df_b.jpg",
+            "2LxH": "https://davesgarden.com/guides/pf/thumbnail.php?image=2008/05/20/Microworld/1b6fd0.jpg&widht=700&height=312"
+        }
+    },
+    {
+        "Plant_name": "Euphorbia Ambovombensis",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "This plant has an excellent heat tolerance, and needs full sun to light shade exposures, but can tolerate shade.",
+            "It is a slow growing species and tubers take many years to enlarge."
+        ],
+        "Plant_category": "Spring Plant",
+        "Plant_description": "Euphorbia ambovombensis is an amazing dwarf geophyte succulents with a round or oval fat base (caudex) topped with several erect branches and spirally arranged leaves creating an almost animated appearance. It eventually becomes a small shrubby bush up to 35 centimetres over time. It superficially resemble Euphorbia decaryi var spirosticha, but differs from having a large caudex and does not spread via underground stems.",
+        "Water_Requirement": "Twice a week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Small",
+        "Genus": "Euphorbia",
+        "Plant_image": {
+            "LxH": "https://plantingman.com/wp-content/uploads/2021/05/Euphorbia-ambovombensis-Succulent-plants.jpg",
+            "Lx2H": "https://m.media-amazon.com/images/I/71nuJst9K6L._AC_SY679_.jpg",
+            "2LxH": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Euphorbia_ambovombensis_%2814615950030%29.jpg"
+        }
+    },
+    {
+        "Plant_name": "Tithonia - Mexican Sunflower (Mix bulbs)",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "THEY'RE NATIVE TO THE AMERICAS.",
+            "THEY TRACK THE SUN.",
+            "THE WORLD'S TALLEST SUNFLOWER REACHES 30 FEET AND 1 INCH."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Tithonia can be annuals, perennials or shrubs, with simple or lobed leaves and long-stemmed, solitary, daisy-like flower-heads in late summer and autumn. Tithonia Rotundifolia is a large, branching annual with large, broadly ovate leaves and vivid orange, daisy-like flowers 8 cm across. In its native Mexico, it grows up to 6 ft or more, but in the garden it will only reach 2-4 ft. The plants are large, compact, and produce their single, dahlia-like flowers very freely.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Treatment",
+        "Size": "Small",
+        "Genus": "Tithonia",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Tithonia_diversifolia-2_600x.jpg?v=1571438613",
+            "Lx2H": "https://i.pinimg.com/736x/72/12/23/7212231e5a1f5180cd886c687d3936c3.jpg",
+            "2LxH": "https://i.ytimg.com/vi/51m3L3vflu4/maxresdefault.jpg"
+        }
+    },
+    {
+        "Plant_name": "Portulacaria afra 'Tricolor'",
+        "Plant_price": 275,
+        "Plant_facts": [
+            "Leaves are Edible.",
+            "It Helps to Fight Climate Change and Air Pollution.",
+            "It is Water-wise and Super Resilient."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Portulacaria afra f. variegata is a much-branched, slow growing, succulent shrub up to 10 feet, with attractive, reddish-brown stems and smooth, obovate, glossy green leaves up to 2 cm long, heavily variegated with cream. Stems become interwoven as the plant ages. Flowers are small, lavender-pink and clusters shaped",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Prune into a hedge",
+        "Size": "Small",
+        "Genus": "Portulaca",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/portulacaria-afra-variegata_600x.jpg?v=1571438669",
+            "Lx2H": "https://i.redd.it/hhbo32r6ans61.jpg",
+            "2LxH": "https://statics.rayagarden.com/20201205/Rainbow-Bush12.jpg"
+        }
+    },
+    {
+        "Plant_name": "Bougainvillea 'Blueberry Ice'",
+        "Plant_price": 450,
+        "Plant_facts": [
+            "They need at least 6 hours a day to produce all that color we love.",
+            "They're better suited to drier climes - we don't get rain here for 8 or 9 months out of the year.",
+            "They're not too fussy about soil type but it must drain freely."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "A vigorous vining shrub with low spreading branches draped with creamy-margined leaves. 'Blueberry Ice' an outstanding Bougainvillea with large clusters of strongly wavy bracts of mauve-purple flowers",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Hedge",
+        "Size": "Large",
+        "Genus": "Bougainvillea",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Bougainvillea_Blueberry_Ice_600x.jpg?v=1591538922",
+            "Lx2H": "https://i.pinimg.com/originals/5a/91/bc/5a91bc7af8de08f23f0e8276993518e9.jpg",
+            "2LxH": "https://www.westdalenurseries.co.uk/wp-content/uploads/2017/03/Blueberry-Ice-2.jpg"
+        }
+    },
+    {
+        "Plant_name": "Kokedama Moss Ball - Pearls & Jade Pothos",
+        "Plant_price": 650,
+        "Plant_facts": [
+            "A Superb Purifier For The Air.",
+            "Relaxing And Calming Properties.",
+            "A Mystical Touch To Your Home."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Kokedama is a traditional bonsai discipline in which the roots of a plant are bound into a spherical form with moss and clay.Sometimes called string gardens, each piece can sit in a shallow dish or hang with the attached fishing line loop, making them lovely additions to any window or tabletop.The Kokedama collection celebrates simplicity and the integrity of natural materials and processes. Its clever design means that layers of soil, moss and thread not only create a self contained vessel for the plant to grow but a living sculptural object.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Medium",
+        "Genus": "Pothos",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/pearl_jade_pothos_1_600x.jpg?v=1609152082",
+            "Lx2H": "https://i.pinimg.com/736x/59/30/5c/59305c519a3ea9ee16e65a7841845839.jpg",
+            "2LxH": "https://todaysgardener.com/wp-content/uploads/2021/06/rsz_12930644684_d8e9cda0f4_k-1024x529.jpg"
+        }
+    },
+    {
+        "Plant_name": "'Pink Delight' Butterfly Bush",
+        "Plant_price": 600,
+        "Plant_facts": [
+            "Fast growing.",
+            "Low maintenance.",
+            "Attracts butterflies and birds."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "'Pink Delight' Butterfly Bush is a medium-sized,, fast-growing deciduous shrub with narrow leaves whitish beneath, and masses of blossoms long, spiked trusses that bloom from summer to autumn. It has slender panicles of pink flowers at tips of current year's growth. The shrub grows upto 5' to 7' high.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Large",
+        "Genus": "Buddleja Davidii",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Butterfly_bush-flower_600x.jpg?v=1571438650",
+            "Lx2H": "https://tse4.mm.bing.net/th?id=OIP.sUAXXItBYk5P-6hnj-ca6QHaLH&pid=Api",
+            "2LxH": "https://rhsplants.azureedge.net/plantselectorimages/detail/WSY0002661_6185.jpg"
+        }
+    },
+    {
+        "Plant_name": "Sedum Rupestre 'Angelina'",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "Too much shade can cause them to lose their bright yellowish foliage color.",
+            "It is somewhat tolerant to cold weather.",
+            "It can handle temperatures several degrees below freezing and still bounce back just fine during the growing season."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "This vigorous, mat-forming, evergreen species has electric golden-yellow foliage that holds its color through the heat of summer. The foliage tips sometimes develop an orangey hue. In summer, 'Angelina' has terminal clusters of star-shaped, vibrant yellow flowers. The drooping buds face upward when they open and the plant can grow to 6 inches tall and 12 inches wide. It is superlative as a ground cover, spilling over rock walls, and in containers. It also makes an excellent accent for plants with dark foliage",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "To create rivers of color in flower beds",
+        "Size": "Small",
+        "Genus": "Sedum",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/sedum_angelina_1_600x.jpg?v=1591538206",
+            "Lx2H": "https://www.lazdkalni.lv/content-files/380000/image/1_6207fba2b660116446903381644690794.jpg",
+            "2LxH": "http://rasadniksusa.com/media/k2/items/cache/c5f7f8ba22bc61faa6aa803ae1139d1d_XL.jpg"
+        }
+    },
+    {
+        "Plant_name": "Den. Fuchcia",
+        "Plant_price": 325,
+        "Plant_facts": [
+            "Fuchsia has simple, lanceolate leaves gathered in whorls or arranged in opposite pairs on the branches.",
+            "Fuchsia develops drooping, tubular or bell-shaped flowers."
+        ],
+        "Plant_category": "Summer Plant",
+        "Plant_description": "Dendrobium orchid plants are epiphytic by nature and require good light and ventilation. The antelopes typically have twisted sepals and upright, twisted petals that suggest an antelope s horns, and have a wider color range. The Dendrobium orchid flower occurs in almost every imaginable color. The flower spikes can be over two feet tall with over twenty blooms on them. The flowers last for 6 to 8 weeks and they make excellent cut flowers. The blooms are all the colors of the rainbow - pinks, lavenders, reds, yellows, oranges and many mixed color combinations. Lavender or white flowers are borne in profusion on a well-grown plant and are long lasting. They are a prolific group in which offset plantlets are frequently produced on the cane. When each offset has produced several aerial roots, it can be cut from the parent plant and will frequently flower after one year of growth.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Dendrobium",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Fuchcia_500x.jpg?v=1571438607",
+            "Lx2H": "https://thumbs.dreamstime.com/b/blomande-rosa-dendrobium-orchid-blommor-p%C3%A5-tr%C3%A4det-tr%C3%A4dsk%C3%B6nheten-i-naturen-205223682.jpg",
+            "2LxH": "https://thumbs.dreamstime.com/b/dark-pink-orchid-edged-white-dendrobium-hybrida-family-magenta-fuchsia-dendrobium-orchid-kauai-190163184.jpg"
+        }
+    },
+    {
+        "Plant_name": "Dr. Anek Vilas",
+        "Plant_price": 985,
+        "Plant_facts": [
+            "Orchids needs bright light and can be grown in any fine-textured orchid mix.",
+            "They can tolerate wide range of temperatures and are able to stand temperatures in the 100º range without suffering."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "The family of Vanda orchids is all epiphytic, which means the plants cling to tree bark or hand from cracks in cliffs and rocky areas. This means their roots are in relatively little soil, just whatever organic matter the crevasse or crack collected over time. Vanda orchid plants bloom several times a year with 1- to 4-inch blooms in a host of colors. Stems and flowers may be speckled or dappled with white. The foliage is thick and round, with a glossy waxy sheen. Plants range in size from miniatures to huge flora several feet tall.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Vanda",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/V.De.anek_Vilas-edited_600x.jpg?v=1571438552",
+            "Lx2H": "https://farm3.static.flickr.com/2391/2346601052_81cc7c0525.jpg",
+            "2LxH": "http://www.ottawaorchidsociety.com/webphotos/P61.jpg"
+        }
+    },
+    {
+        "Plant_name": "Siam Pink Camellia",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "The camellia flower speaks to the heart and expresses positive feelings.",
+            "Camellias make a dramatic display inside the home, especially when you include a few of their glossy green leaves."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Adeniums are one of the easiest to grow and most rewarding of the fat plants (caudiciforms). Their adaptability to a broad range of conditions makes them forgiving of less than ideal care. This attribute enables just about anyone to grow and bloom them despite individual climate. Rosy Adeniums have many spectacular hybrids. The basic culture is very similar to orchids.",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Large",
+        "Genus": "Adenium",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/365.SIAM_PINK_CAMELLIA-1_600x.jpg?v=1571438641",
+            "Lx2H": "https://cdn.shopify.com/s/files/1/0012/9689/2016/products/litslam_1024x1024@2x.jpg?v=1575835966",
+            "2LxH": "https://st4.depositphotos.com/22032960/i/600/depositphotos_300149134-stock-photo-beautiful-vibrant-pink-camellia-flowers.jpg"
+        }
+    },
+    {
+        "Plant_name": "Agave Geminiflora",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "The flowers grow in pairs on either side of a tall, straight unbranched spike.",
+            "Agave geminiflora plants kept indoors will probably never bloom, but outdoor plants will eventually bloom when they reach maturity."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Agave geminiflora (Twin-flowered Agave) is an single, short-stemmed, dwarf agave with narrow, dark green unarmed leaves that are very flexible.",
+        "Water_Requirement": "Once a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Medium",
+        "Genus": "Agave",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/agavegeminiflora-1_600x.jpg?v=1624898292",
+            "Lx2H": "https://www.thegardener.co.za/wp-content/uploads/Agave-geminiflora2.jpg",
+            "2LxH": "https://plantcaretoday.com/wp-content/uploads/agave-geminiflora-1200-630-FB-04302019-min.jpg"
+        }
+    },
+    {
+        "Plant_name": "Prostrata Juniper Bonsai",
+        "Plant_price": 450,
+        "Plant_facts": [
+            "Bonsais are beautiful to look at and are considered auspicious too.",
+            "The popular myth for Bonsai is that they can be kept indoors, however the reality is far from it! Bonsais are essentially trees which have been moulded into micro bodies!"
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Creeping Juniper is low growing prostrate form of Juniper with gray-green foliage. This Juniper is seen with many names, among them Juniperus prostrata and Juniperus horizontalis. Prostrate Juniper can get up to 12 inches in height and will spread as large as you let it.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Medium",
+        "Genus": "Juniperus",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/IMG_0271_600x.JPG?v=1571438598",
+            "Lx2H": "http://kuromatsubonsai.com/wp-content/uploads/2011/12/IMG_6139.jpg",
+            "2LxH": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Juniperus_chinensis_%27Prostrata%27_bonsai.JPG/1200px-Juniperus_chinensis_%27Prostrata%27_bonsai.JPG"
+        }
+    },
+    {
+        "Plant_name": "Japanese Poinsettia",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "Contrary to popular belief, poinsettias are not poisonous.",
+            "Poinsettias need both sunshine and dark nights to bloom."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Variegated devil's backbone has green and white leaves and reddish flowers in summer time. This evergreen shrub has medium-green, slightly glossy leaves that are perfect ovals edged in white. They flank the zigzag stems to resemble a crooked backbone with ribs.",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Small",
+        "Genus": "Euphorbia",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Pedilanthus_tithymaloides_Variegatus_500x.jpg?v=1591538014",
+            "Lx2H": "https://cdn.mainichi.jp/vol1/2020/12/16/20201216p2a00m0na025000p/9.jpg?3",
+            "2LxH": "https://davesgarden.com/guides/pf/thumbnail.php?image=2016/03/08/DaylilySLP/7d1b5b.jpg&widht=700&height=312"
+        }
+    },
+    {
+        "Plant_name": "Cyclamen Hybrid (Mix bulbs)",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "Cyclamens aren't fussy, but they do need some general maintenance.",
+            "During summer cyclamens are dormant, so put the pot on its side in a shady spot in the garden."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Cyclamen persicum is a small and compact flowering plant with bright colored blooms, attractive leaves. The foliage grows very compact and the leaves are patterned and kind of heart shaped, which are very attractive without flowers. The basic leaves are green with silver markings and another has a silver marble effect around most of the leaf and the center is green. The beautiful blooms sit well above the foliage on long stems.",
+        "Water_Requirement": "Once a Week",
+        "Fragrance": "Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "No",
+        "Use": "Outdoor",
+        "Size": "Small",
+        "Genus": "Cyclamen",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Cyclamen_Mixed_600x.jpg?v=1583671384",
+            "Lx2H": "https://www.greenmylife.in/wp-content/uploads/2014/06/GMLOMSD063_New.jpg",
+            "2LxH": "https://www.homestratosphere.com/wp-content/uploads/2019/07/Many-types-of-Cyclamen-Spurge-flowers-a-garden.jpg"
+        }
+    },
+    {
+        "Plant_name": "Asparagus Densiflorus",
+        "Plant_price": 300,
+        "Plant_facts": [
+            "Ferns require a lot of indirect bright light and not direct sunlight.",
+            "Ferns in general love humidity."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Asparagus Densiflorus, commonly called asparagus fern, is noted for its dense fern-like foliage which forms an arching mound that matures to 1-3 tall spreading to 3-4 wide. It is not a fern, however, but is a member of the asparagus family. This ornamental asparagus is an evergreen perennial with outward-sprawling fibrous and tuberous roots from which rise numerous semi-stiff arching stems (to 24 long) covered with linear, needle-like green leaves.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Medium",
+        "Genus": "Asparagus",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/IMG_20160211_102710_600x.jpg?v=1591538025",
+            "Lx2H": "https://ugmainweb.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/10/14084120/Asparagus-Densiflorus.webp",
+            "2LxH": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Asparagus_densifloru_NiJ7nkGEvzOL.jpg"
+        }
+    },
+    {
+        "Plant_name": "Rosemary Salem",
+        "Plant_price": 450,
+        "Plant_facts": [
+            "Rosemary retains its fragrance even when dried.",
+            "They prefer full sun and prosper in good, moderately fertile soil."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Salem Rosemary is an easy herb to grow and a pretty and fragrant plant in any garden. Some regions are too hot or cold for rosemary, and many are too wet. Enter Salem Rosemary, a hybrid herb with plenty of kitchen uses and a better tolerance of humid climates, like in the Pacific Northwest, than most rosemary plants.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Medium",
+        "Genus": "Rosemary",
+        "Plant_image": {
+            "LxH": "https://i.etsystatic.com/20994514/r/il/092af7/2355437190/il_570xN.2355437190_45yc.jpg",
+            "Lx2H": "https://www.fragrantfields.com/Productimages/img/rosemary_arp/rosemary_arp_pp.jpg",
+            "2LxH": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rosmarinus_Officinalis_Salem_0zz.jpg"
+        }
+    },
+    {
+        "Plant_name": "Rosemary Ladlau - Shrub rose",
+        "Plant_price": 350,
+        "Plant_facts": [
+            "Flowering plants need access to bright sunlight to remain healthy and blooming.",
+            "Plants with thin leaves need daily watering and ones with thick leaves need watering 3-4 times a week."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Shrub roses are some of the easiest to grow and have the same beautiful attributes of classic roses—but without all the fuss. Rosemary Ladlau is combination of hybrid tea and the Provence roses with pointed, urn shaped buds opening slowly into full bodied blooms with the famous quartered centre of the old roses.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Rosa",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Rose_5_600x.jpg?v=1625846756",
+            "Lx2H": "https://media02.living4media.com/largepreviews/MzUwNDk2MDEz/11306323-Purple-rose-Rosemary-Ladlau-in-lush-herbaceous-border-outside-house-in-blurred-background.jpg",
+            "2LxH": "https://c.pxhere.com/images/af/1e/adc7516c34ac144f0e78853b9536-1634773.jpg!s2"
+        }
+    },
+    {
+        "Plant_name": "Bhadraksha-Scaevola Taccada",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "Avoid keeping them in direct sunlight as it can cause leaves to burn due to extreme sunlight in the afternoon.",
+            "Make sure watering is done once the soil goes dry."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "It is a soft-wooded shrub or small tree which grows up to 24 ft in height in perfect conditions. The leaves are simple, closely alternate, crowded at stem tips; blades thick, shiny light green becoming yellow with age; leaf axils with tufts of pale hairs. Flowers white to pale lilac, several in short cluster at leaf axils; Fruit a fleshy, subspherical drupe, green then white, 8-12 mm long, with sepal lobes persistent at the tip.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Scavola",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/IMG_0708_600x.JPG?v=1571438610",
+            "Lx2H": "https://upload.wikimedia.org/wikipedia/commons/3/36/Scaevola_taccada_13.JPG",
+            "2LxH": "https://live.staticflickr.com/814/39247768870_c5857f0f3d_b.jpg"
+        }
+    },
+    {
+        "Plant_name": "Agave 'Moonshine'",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "Agave plants are easy to care, drought tolerant and perennial.",
+            "They are hardy plants which require full sunlight and gritty soil.",
+            "It is best to leave the plant alone in winters."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "It is a soft-wooded shrub or small tree which grows up to 24 ft in height in perfect conditions. The leaves are simple, closely alternate, crowded at stem tips; blades thick, shiny light green becoming yellow with age; leaf axils with tufts of pale hairs. Flowers white to pale lilac, several in short cluster at leaf axils; Fruit a fleshy, subspherical drupe, green then white, 8-12 mm long, with sepal lobes persistent at the tip.",
+        "Water_Requirement": "Daily",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Balcony",
+        "Size": "Large",
+        "Genus": "Scavola",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/IMG_0708_600x.JPG?v=1571438610",
+            "Lx2H": "https://i.pinimg.com/originals/cd/54/f9/cd54f9d1472c1cf29745c6b2c1233baa.jpg",
+            "2LxH": "https://waterwisebotanicalsblog.files.wordpress.com/2018/02/agave-moonshine.jpg"
+        }
+    },
+    {
+        "Plant_name": "Agave colorata",
+        "Plant_price": 500,
+        "Plant_facts": [
+            "Agave plants need fertilising only in summers when the plant is actively growing.",
+            "Do not try to repot it during the winters as it does not like getting disturbed."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "Agave colorata is a small, slow-growing agave featuring 5 to 8 inch wide, rough-textured, blue-gray to brilliant blue leaves with undulating and strongly toothed margins. It is similar in size and armament to its bovine cousin (Agave bovicornuta), but the blue-grey leaves are wider, with stunning leaf imprints. Leaf imprints develop during the formation of the bud..",
+        "Water_Requirement": "Twice a Week",
+        "Fragrance": "Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Medium",
+        "Genus": "Agave",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Agavecolorata_6_600x.jpg?v=1625588967",
+            "Lx2H": "https://garden.org/pics/2019-02-03/nmumpton/edec8e.jpg",
+            "2LxH": "https://plantcaretoday.com/wp-content/uploads/LHF-50329-agave-colorata-t1-min-1024x538.jpg"
+        }
+    },
+    {
+        "Plant_name": "Agave Lophantha 'Quadricolor'",
+        "Plant_price": 400,
+        "Plant_facts": [
+            "Have a drainage hole so as to let the excess water drain out.",
+            "Addition of pebbles and rocks increase the drainage capability in a container."
+        ],
+        "Plant_category": "Winter Plant",
+        "Plant_description": "A small agave with golden-edged, serrated leaves with reddish teeth that grab onto sunlight and simply glow. Green-yellow stripes run through the middle rib of the leaves in a snazzy manner.",
+        "Water_Requirement": "Once a Week",
+        "Fragrance": "Non Fragrant",
+        "Sunlight_Requirement": "Outdoor sun",
+        "With_Pots": "Yes",
+        "Use": "Outdoor",
+        "Size": "Medium",
+        "Genus": "Agave",
+        "Plant_image": {
+            "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/agave_lophantha_quadricolor_600x.JPG?v=1571438593",
+            "Lx2H": "http://cdn.shopify.com/s/files/1/0654/1643/products/agave-lophantha-quadricolor_a731117e-e0ff-4f77-a268-f7d424725e0e.jpg?v=1636936078",
+            "2LxH": "https://www.gardenplantsonline.co.uk/wp-content/uploads/2019/11/21381-6.jpg"
+        }
+    }
+]
