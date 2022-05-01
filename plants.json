@@ -950,5 +950,30 @@
              "Lx2H": "http://cdn.shopify.com/s/files/1/0654/1643/products/agave-lophantha-quadricolor_a731117e-e0ff-4f77-a268-f7d424725e0e.jpg?v=1636936078",
              "2LxH": "https://www.gardenplantsonline.co.uk/wp-content/uploads/2019/11/21381-6.jpg"
          }
+     },
+     {
+         "Plant_name": "Peace Lily 'Petite'",
+         "Plant_price": 450,
+         "Plant_facts": [
+             "The beautiful peace lily plant is all about its name.",
+             "It symbolizes peace, prosperity, tranquillity, solitude and purification.",
+             "The white flower produced by this plant is a symbol of the white flag, which is internationally understood as a symbol of truce or ceasefire."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "Peace lily (Spathiphyllum) is an attractive, low-maintenance plant and produces long, lance-like leaves that are glossy, dark green. The foliage and form of a peace lily resembles hostas. Peace lilies, sometimes known as spaths, are valued for their foliage alone, but their real beauty lies in the dramatic white flowers they occasionally produce. These flowers resemble calla lilies. They are green when young and slowly bleach to white as they open.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Air Purifier",
+         "Size": "Large",
+         "Genus": "Spathiphyllum",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/peace-lily1_600x.JPG?v=1591538601",
+             "Lx2H": "https://cdn.shopify.com/s/files/1/0417/7140/1380/articles/How-to-Care-for-Your-Peace-Lily_750x.jpg?v=1596152308",
+             "2LxH": "https://pepuphome.com/wp-content/uploads/2021/08/peace-lily.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
      }
  ]
