@@ -975,5 +975,176 @@
          },
          "Seller": "Plant Hub",
          "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Aloe Vera",
+         "Plant_price": 325,
+         "Plant_facts": [
+             "IN FACT, IT CONSISTS OF 99% WATER.",
+             "THERE ARE MORE THAN 400 SPECIES.",
+             "IT ORIGINATED IN AFRICA."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "Aloe vera is a stemless or very short-stemmed succulent plant growing up to 1 m tall, spreading by offsets. The leaves are thick and fleshy, green to grey-green, with some varieties showing white flecks on the upper and lower stem surfaces. The margin of the leaf is serrated and has small white teeth. The flowers are produced in summer on a spike up to 35 inches tall, each flower being pendulous, with a yellow tubular corolla up to 3 cm long",
+         "Water_Requirement": "Twice a Week",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony",
+         "Size": "Small",
+         "Genus": "Aloes",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/aloe-vera_600x.jpg?v=1571438594",
+             "Lx2H": "https://www.hindustantimes.com/web-stories/beauty-benefits-of-aloe-vera-7472/assets/14.jpeg",
+             "2LxH": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-696251125_header-1024x575.jpg?w=1155&h=1528"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Codiaeum 'Gold Star'",
+         "Plant_price": 355,
+         "Plant_facts": [
+             "Crotons grow best in well-drained soil and in full sun to partial shade.",
+             "Too much sun will bleach the color out of the leaves and too little will cause the leaves to be more green.",
+             "Dry air and soil will cause croton leaves to fall off."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "The croton Gold Star is an evergreen tropical.This variety has green leaves speckled with bright like a constellation of stars on each leaf..",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Living Room",
+         "Size": "Large",
+         "Genus": "Codiaeum",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Codiaeum_Gold_Dust_600x.jpg?v=1591538563",
+             "Lx2H": "https://m.media-amazon.com/images/I/71D5E0pQtvL._SL1024_.jpg",
+             "2LxH": "https://plantophiles.com/wp-content/uploads/2021/07/Banana-Croton-720x405.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Monstera Deliciosa",
+         "Plant_price": 800,
+         "Plant_facts": [
+             "Monsteras have lots of wrong names.",
+             "The holes in a Monstera leaf have a function.",
+             "Monstera leaves can't create extra holes."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "Monstera Deliciosa is an easy-to-grow houseplant with show-stopper foliage. Each bright green leaf is full of natural oval-shaped holes that earn the plant its nickname,'Swiss Cheese Plant' philodendron. Young monsteras have solid, heart-shaped leaves, and have no slits or holes. They almost look like a philodendron plant !  As Monstera deliciosa ages, around 2-3 years,  it will eventually develop those beautiful leaves with more and more fenestrations (holes) and slits among the leaves, given good light, the right amount of water, and a little fertilizer. Monstera can grow to be enormous: dozens of feet tall with leaves that spread to nearly two feet wide.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Living Room",
+         "Size": "Large",
+         "Genus": "Monstera",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Monstera_2_600x.jpg?v=1626948239",
+             "Lx2H": "https://i0.wp.com/blog.mytastefulspace.com/wp-content/uploads/2021/03/Philodendron-Monstera-Cover.jpg?fit=819%2C1024&ssl=1",
+             "2LxH": "https://thursd.com/storage/media/2815/monstera-deliciosa-and-the-monstera-deliciosa-albo-variegata.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Marble Queen Pothos",
+         "Plant_price": 350,
+         "Plant_facts": [
+             "A Marble Queen Pothos can survive in almost any light situation.",
+             "Marble Queens will lose their variegation if they stay in too dark of a place for too long."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "Marble Queen (pothos) are evergreen climbers that can grow up to 20 m high, requiring no extensive care. It has have glossy, heart-shaped, green and white leathery leaves. Money plant or Devil's vine is a popular houseplant that is grown indoors mostly in water. It is believed that having money plant at home brings good luck, happiness, wealth and prosperity.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Indoor",
+         "Size": "Medium",
+         "Genus": "Pothos",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Money_Plant_-Marble_Queen2_600x.JPG?v=1591538582",
+             "Lx2H": "https://i0.wp.com/blog.mytastefulspace.com/wp-content/uploads/2021/08/Water-Marble-Queen-Pothos.jpg?fit=768%2C1024&ssl=1",
+             "2LxH": "https://www.thespruce.com/thmb/fU2tzUpPxUP_Snvv0ASI9L80oXE=/1500x844/smart/filters:no_upscale()/marble-queen-pothos-plant-profile-5206131-hero-19b8dca0cf9e407b87a6f93e50054ed3.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "ZZ Plant_Zamioculcas Zamiifolia",
+         "Plant_price": 475,
+         "Plant_facts": [
+             "ZZ plant is called a “Fat Boy Plant” because of its thick fat tuber rhizome.",
+             "ZZ plant is called Eternity plant because it's believed that it can live forever."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "ZZ plant is an evergreen plant with feathered leaves which grow to a length of 40 to 60cm. The leaves on the thick stems are smooth, shiny and dark green. They are a fleshy type which are only a couple of inches in length and an inch or so wide. The plant can flower, but rarely does indoor sand. the arum-like flowers grow from the base of the plant.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Living Room",
+         "Size": "Large",
+         "Genus": "Zamioculcas",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/IMG_2524_600x.JPG?v=1591538577",
+             "Lx2H": "https://nestreeo.com/wp-content/uploads/2019/09/ZZ-plant-3.jpg",
+             "2LxH": "https://www.kalliergeia.com/wp-content/uploads/2021/03/01.-The-ZZ-Plant-Waxy-Glabrous-Leaves.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Bird Nest Fern",
+         "Plant_price": 675,
+         "Plant_facts": [
+             "Bird's-nest ferns are evergreen, with solid, undivided fronds that may be a consistent width from top to bottom or taper, depending on the species.",
+             "Each frond has a dark central rib down its length."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "The bird s nest fern plant gets its name from the fact that the center of the plant resembles a bird s nest. It is also occasionally called a crow s nest fern. Bird s nest ferns are identified by their flat, wavy or crinkly fronds. A wide variety, this plant has long, thick fronds similar to banana leaves.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Living Room",
+         "Size": "Large",
+         "Genus": "Asplenium",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/Bird_Nest_Fern_600x.jpg?v=1571438594",
+             "Lx2H": "https://himadriaquatics.com/wp-content/uploads/2021/12/birdnestfern.jpg",
+             "2LxH": "https://animals.sandiegozoo.org/sites/default/files/2016-10/plants_hero_birdsnest.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
+     },
+     {
+         "Plant_name": "Philodendron Xanadu 'Green'",
+         "Plant_price": 295,
+         "Plant_facts": [
+             "Its green leathery leaves can grow as large as 16 to 18 inches long and 7 to 14 inches.",
+             "Grows best in medium, indirect light."
+         ],
+         "Plant_category": "Indoor Plant",
+         "Plant_description": "Philodendron Xanadu Green is a large compact easy to grow plant. Each shiny green leathery leaf has 15-20 distinct lobes. The leaves of this beautiful, exotic looking foliage plant can be as large as 16-18 inches long and 7-14 inches wide.",
+         "Water_Requirement": "Daily",
+         "Fragrance": "Non Fragrant",
+         "Sunlight_Requirement": "Outdoor sun",
+         "With_Pots": "Yes",
+         "Use": "Balcony, Indoor",
+         "Size": "Medium",
+         "Genus": "Philodendron",
+         "Plant_image": {
+             "LxH": "https://cdn.shopify.com/s/files/1/0284/2450/products/PhilodendronXanaduGreen_1_600x.jpg?v=1596627557",
+             "Lx2H": "https://media.ugaoo.com/catalog/product/cache/81d2f56800d33f099d2b369affd8e374/p/h/philodendronxanadugreen_45_1.png",
+             "2LxH": "https://mangomeadows.in/nursery/wp-content/uploads/2020/11/mangomeadows-nursery-plants-philodendron-xanadu-green-plant-16969189425292_520x520.jpg"
+         },
+         "Seller": "Plant Hub",
+         "no_of_times_viewed": 0
      }
  ]
