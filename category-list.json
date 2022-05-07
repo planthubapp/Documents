@@ -1,9 +1,37 @@
 {
-    "plant_by_type":[
-        "",
-        ""        
+    "plant_by_type": [
+        "Adenium Obesum",
+        "Ferns",
+        "Adenium Arabicum",
+        "Shrub Roses",
+        "Succulents",
+        "Fruit",
+        "Cactus",
+        "Herbs",
+        "Flowering",
+        "Air Plants",
+        "Kokedama",
+        "Bromeliads",
+        "Foliage",
+        "Trees",
+        "Vines & Creepers",
+        "Orchids",
+        "Bonsai"
     ],
-    "plant_by_use":[
-
+    "plant_by_use": [
+        "Air Purifier",
+        "Outdoor",
+        "Low Maintainence",
+        "Gifting",
+        "Indoor",
+        "Vastu/Good luck",
+        "Office",
+        "Medicinal",
+        "Window Ledge",
+        "Ready to Grow Kits",
+        "Balcony",
+        "Hanging",
+        "Living Room",
+        "Hedge"
     ]
 }
